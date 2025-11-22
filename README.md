@@ -1120,11 +1120,11 @@ Engineer in Artificial Intelligence and Computer Vision
 
 - 📧 **Email** : faissalelmokaddem@gmail.com
 
-- 🔗 **LinkedIn** : [linkedin.com/in/faissal-elmokaddem](https://linkedin.com/in/faissal-elmokaddem)
+- 🔗 **LinkedIn** : [linkedin_profile](https://linkedin.com/in/faissal-elmokaddem)
 
 - 💻 **GitHub** : [GitHub Repo](https://github.com/Faissalelmo/Speed-Limit-Information_project?tab=readme-ov-file) - Explore the code
 
-- 🌐 **Portfolio** : [https://faissal-s-portfolio.vercel.app/]
+- 🌐 **Portfolio** : [Portfolio](https://faissal-s-portfolio.vercel.app/)
 
 ---
 
