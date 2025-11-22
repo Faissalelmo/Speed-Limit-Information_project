@@ -24,9 +24,6 @@
   <img src="images\main.png" alt="Main Interface" width="700"/>
 </p>
 
-### 📸 [Hero Image Placeholder]
-*Display: Real-time interface with sign detection, distance estimation, and speed limit feedback*
-
 ---
 
 ## 📋 Table of Contents
@@ -66,6 +63,10 @@ ADAS (Advanced Driver Assistance Systems) face critical challenges in detecting 
 ---
 
 ## 🚀 Methodology & Architecture
+
+<p align="center">
+  <img src="images\Méthodologie.png" alt="Main Interface" width="700"/>
+</p>
 
 ### Architecture & Design Philosophy
 
@@ -1288,4 +1289,5 @@ python camera_detection/scripts/run_detection.py --gui
 **[⭐ Star the Repo](#) · [🍴 Fork it](#) · [💬 Discuss](#) · [📧 Contact](#)**
 
 </div>
+
 
