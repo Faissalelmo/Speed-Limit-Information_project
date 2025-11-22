@@ -1120,7 +1120,7 @@ Engineer in Artificial Intelligence and Computer Vision
 📧 **Email** : faissalelmokaddem@gmail.com
 🔗 **LinkedIn** : [linkedin.com/in/faissal-elmokaddem](https://linkedin.com/in/faissal-elmokaddem)
 💻 **GitHub** : [github.com/FaissalElmokaddem](https://github.com/FaissalElmokaddem)
-🌐 **Portfolio** : [portfolio.example.com](https://portfolio.example.com)
+🌐 **Portfolio** : [portfolio.example.com](https://faissal-s-portfolio.vercel.app/)
 
 ---
 
