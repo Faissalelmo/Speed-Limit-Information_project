@@ -312,6 +312,10 @@ Response:
 
 ### 5️⃣ Fusion Algorithm
 
+<p align="center">
+  <img src="images\fusionalgorithme.png" alt="Main Interface" width="800"/>
+</p>
+
 **Decision Logic (pseudo-code):**
 ```python
 def fuse_speed_limits(camera_result, osm_result, distance_estimate):
