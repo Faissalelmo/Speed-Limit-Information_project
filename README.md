@@ -1092,8 +1092,8 @@ Global System:
 **For questions/bugs/suggestions:**
 - 📧 Email: faissalelmokaddem@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/faissal-elmokaddem](https://linkedin.com/in/faissal-elmokaddem)
-- 💻 GitHub: [@FaissalElmokaddem](https://github.com/FaissalElmokaddem)
-- 🌐 Website: [portfolio.example.com](https://portfolio.example.com)
+- 💻 GitHub: [@FaissalElmokaddem](https://github.com/Faissalelmo/Speed-Limit-Information_project?tab=readme-ov-file)
+- 🌐 Website: [portfolio.example.com](https://faissal-s-portfolio.vercel.app/)
 
 ---
 
