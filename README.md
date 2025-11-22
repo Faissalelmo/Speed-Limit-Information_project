@@ -259,6 +259,10 @@ yolo task=detect mode=train \
 - **Recall:** 91.5%
 - **F1-Score:** 92.6%
 
+<p align="center">
+  <img src="images\Résultats_d’entrainement_camera.png" alt="Main Interface" width="1000"/>
+</p>
+
 ### 2️⃣ Real-Time Detection
 
 The trained YOLOv8 model detects signs via:
@@ -270,6 +274,10 @@ The trained YOLOv8 model detects signs via:
 - Latency: 30-50ms (GPU)
 - FPS: 25-30 (640p resolution)
 - Accuracy: 99%+ on distance < 10m
+
+<p align="center">
+  <img src="images\Résultats_d’entrainement_camera.png" alt="Main Interface" width="1000"/>
+</p>
 
 ### 3️⃣ Distance Estimation
 
