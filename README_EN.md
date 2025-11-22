@@ -20,6 +20,10 @@
 - 🚗 **Complete coverage** : Traffic signs and OSM data combined
 - 🔐 **Modular architecture** : Extensible and maintainable
 
+<p align="center">
+  <img src="images\main.png" alt="Main Interface" width="700"/>
+</p>
+
 ### 📸 [Hero Image Placeholder]
 *Display: Real-time interface with sign detection, distance estimation, and speed limit feedback*
 
@@ -1284,3 +1288,4 @@ python camera_detection/scripts/run_detection.py --gui
 **[⭐ Star the Repo](#) · [🍴 Fork it](#) · [💬 Discuss](#) · [📧 Contact](#)**
 
 </div>
+
