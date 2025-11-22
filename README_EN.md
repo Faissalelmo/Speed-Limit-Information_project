@@ -108,8 +108,10 @@ ADAS (Advanced Driver Assistance Systems) face critical challenges in detecting 
 
 ```
 
+
+
 <p align="center">
-  <img src="images\Architecture_globale_système.png" alt="Main Interface" width="700"/>
+  <img src="images\Architecture_globale_système.png" alt="Main Interface" width="800"/>
 </p>
 
 ### Technology Stack
@@ -1294,6 +1296,7 @@ python camera_detection/scripts/run_detection.py --gui
 **[⭐ Star the Repo](#) · [🍴 Fork it](#) · [💬 Discuss](#) · [📧 Contact](#)**
 
 </div>
+
 
 
 
