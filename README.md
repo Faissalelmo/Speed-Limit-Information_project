@@ -69,11 +69,11 @@ ADAS (Advanced Driver Assistance Systems) face critical challenges in detecting 
 </p>
 
 ### Architecture & Design Philosophy
-
+---
 <p align="center">
   <img src="images\Architecture_globale_système.png" alt="Main Interface" width="1100"/>
 </p>
----
+
 
 ### Technology Stack
 
